@@ -17,7 +17,7 @@ const DeleteStudent = () => {
                             <input type="number" className="form-control" />
                             <div className="label form-label">Rollno</div>
                         </div>
-                        <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                        <div className="col-12 d-flex justify-content-center mt-3">
                             <button className="btn btn-danger">DELETE</button>
                         </div>
                     </div>
